@@ -1,0 +1,10 @@
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: example
+data:
+  domain: hyperbolic.xyz
+  subdomain: download
+  path: hyperdos/install.sh
+  signature: asdf-todo-signature
