@@ -62,13 +62,14 @@ In this challenge, you'll build a decentralized git-like storage system using sm
 | **Code Quality & Documentation** | Is the code clean, well-documented, and easy to understand?                   |
 | **Bonus Features**               | Is diff-based storage implemented?                                            |
 
-# Useful Info
+## Useful Info
 
 If you need, here is a public chain RPC that you can use:
 
 - Chain: Avalanche C-Chain (Testnet)
 - ChainID: 43113
 - Public RPC: <https://api.avax-test.network/ext/bc/C/rpc>
+- Other chain info (explorer, native token info, etc.):: https://github.com/wevm/viem/blob/main/src/chains/definitions/avalancheFuji.ts
 - Testnet Faucet: <https://core.app/tools/testnet-faucet/?subnet=c&token=c>
   - Note - this faucet requires that you own some (even 0.00000001) mainnet AVAX on the wallet to use it. If you need, you may provide us with your wallet address and we will send you a small amount of tokens so that you may use the faucet.
 
